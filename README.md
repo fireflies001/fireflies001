@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fireflies001
 - 👀 I’m interested in Game development, Web development and Traveling
-- 🌱 I’m currently learning Godot game engine
+<!--- - 🌱 I’m currently learning Godot game engine and c# --->
 <!--- 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... --->
 
